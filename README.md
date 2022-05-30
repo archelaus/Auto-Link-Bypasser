@@ -3,13 +3,13 @@
 Py script to bypass/automate interaction from various link shortener sites
 
 Currently supported -
-[x] GDToT
-[x] GPlinks
-[x] Rock Links
-[x] Gofile
-[x] sharer.pw
-[x] DropLink.co
-[x] AdFly
+- [x] GDToT
+- [x] GPlinks
+- [x] Rock Links
+- [x] Gofile
+- [x] sharer.pw
+- [x] DropLink.co
+- [x] AdFly
 
 ## Requesting for a site
 
